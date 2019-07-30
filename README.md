@@ -14,6 +14,6 @@ Download the source code and run the app through terminal with the command pytho
 
 ## Built With ##
 - [Spotify API](https://developer.spotify.com/documentation/web-api/)
-- [scikit-learn (sklearn)](https://scikit-learn.org/stable/documentation.html)
-- [openCV](https://opencv.org/)
+- [Scikit-learn (sklearn)](https://scikit-learn.org/stable/documentation.html)
+- [OpenCV](https://opencv.org/)
 - [Microsoft Azure API](https://azure.microsoft.com/en-us/services/cognitive-services/face/)
