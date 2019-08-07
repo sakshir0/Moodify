@@ -17,3 +17,6 @@ Download the source code and run the app through terminal with the command pytho
 - [Scikit-learn (sklearn)](https://scikit-learn.org/stable/documentation.html)
 - [OpenCV](https://opencv.org/)
 - [Microsoft Azure API](https://azure.microsoft.com/en-us/services/cognitive-services/face/)
+
+## Video Demo ##
+https://www.youtube.com/watch?v=Euq_iECaoW4
